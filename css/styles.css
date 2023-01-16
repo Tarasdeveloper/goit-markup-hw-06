@@ -544,6 +544,7 @@ body {
   background-color: var(--footer-hover);
 }
 
+/* _________Modal________ */
 .backdrop {
   position: fixed;
   top: 0;
