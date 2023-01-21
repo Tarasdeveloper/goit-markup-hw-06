@@ -107,7 +107,7 @@ body {
   padding: 32px 16px;
 }
 
-/* _________Header________ */
+/* ______________Header_____________ */
 .header {
   box-shadow: 0px 2px 1px rgba(46, 47, 66, 0.08),
     0px 1px 1px rgba(46, 47, 66, 0.16), 0px 1px 6px rgba(46, 47, 66, 0.08);
@@ -197,7 +197,7 @@ body {
   color: var(--accent-color);
 }
 
-/* _________Hero________ */
+/* ______________Hero_____________ */
 .hero {
   max-width: 1440px;
   margin: 0 auto;
@@ -236,7 +236,7 @@ body {
   background-color: var(--active-color);
 }
 
-/* _________Qwalities________ */
+/* ______________Qwalities_____________ */
 .qwalities {
   padding: 120px 0;
 }
@@ -272,7 +272,7 @@ body {
   color: var(--text-color);
 }
 
-/* _________Works________ */
+/* ______________Works_____________ */
 .works {
   padding-bottom: 120px;
 }
@@ -283,7 +283,7 @@ body {
   justify-content: space-between;
 }
 
-/* _________Team________ */
+/* ______________Team_____________ */
 .team {
   background-color: var(--background-color);
   padding: 120px 0;
@@ -348,7 +348,7 @@ body {
   background-color: var(--active-color);
 }
 
-/* _________Customers________ */
+/* ______________Customers_____________ */
 .customers {
   padding: 130px 0 120px;
 }
@@ -391,7 +391,7 @@ body {
   fill: var(--active-color);
 }
 
-/* _________Portfolio________ */
+/* ______________Portfolio_____________ */
 .portfolio {
   padding: 96px 0 120px 0;
 }
